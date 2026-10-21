@@ -261,7 +261,6 @@ To rigorously assess the pandemic shock, the observation timeline is divided int
 
 - **Intern:** Vaishnav Sreejan (Data Science Intern)
 - **Internship:** [CodeAlpha](https://codealpha.tech/) (Task 2: Unemployment Analysis with Python)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/)
 - **GitHub:** [@VaishnavSreejan](https://github.com/VaishnavSreejan)
 
 ### GitHub Topics
