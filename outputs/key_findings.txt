@@ -1,0 +1,36 @@
+================================================================================
+CODEALPHA TASK 2: UNEMPLOYMENT ANALYSIS - KEY FINDINGS & INSIGHTS
+================================================================================
+
+1. OVERALL NATIONAL UNEMPLOYMENT RATE:
+   Across all observations from May 2019 to June 2020, the national average unemployment rate stood at 11.79%, with a median of 8.35%.
+
+2. HIGHEST AND LOWEST RECORDED SINGLE RATES:
+   - Peak single observation: 76.74% in Puducherry (Urban) during April 2020.
+   - Minimum single observation: 0.00% in Puducherry during May 2019.
+
+3. PEAK MONTHLY NATIONAL SHOCK (COVID-19 LOCKDOWN):
+   - The national average unemployment rate spiked to its highest monthly level in May 2020 at 24.88%.
+   - In contrast, the lowest monthly national average was recorded in May 2019 at 8.87%.
+
+4. COVID-19 IMPACT (PRE-COVID VS COVID-19 PERIOD):
+   - Pre-COVID Average (May 2019 - Feb 2020): 9.51%
+   - COVID-19 Period Average (Mar 2020 - Jun 2020): 17.77%
+   - Absolute Increase: +8.26 percentage points
+   - Relative Surge: +86.91% increase in average unemployment rate.
+
+5. URBAN VS RURAL DISPARITY:
+   - Urban areas suffered higher average unemployment at 13.17%, compared to 10.32% in Rural areas.
+   - Urban economies experienced sharper lockdown vulnerability due to service-sector closures and dense labor markets.
+
+6. REGIONAL AND STATE-LEVEL DISPARITIES:
+   - Highest average unemployment rate by state: Tripura with an average of 28.35%.
+   - Lowest average unemployment rate by state: Meghalaya with an average of 4.80%.
+   - Demonstrates marked regional inequality in labor market resilience.
+
+7. POLICY IMPLICATIONS & OBSERVATIONAL LIMITATIONS:
+   - Urban labor markets require targeted emergency social safety nets and wage subsidy schemes during macroeconomic disruptions.
+   - Rural agricultural activity provided partial absorption capacity during lockdowns, but requires continuous formalization.
+   - Limitation: These observational data reflect sample survey estimates; changes during 2020 coincide with COVID-19
+     containment measures but do not isolate other simultaneous supply-chain and global macroeconomic shifts.
+================================================================================
